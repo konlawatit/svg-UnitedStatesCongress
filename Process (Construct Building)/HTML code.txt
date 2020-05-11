@@ -1,213 +1,275 @@
 <svg id="svg1" viewbox="0 0 1000 600"><!-- Background SVG -->
-<!-- Building -->
-  <!--ใช้จริงจะทำการปรับ ขนาดเป็น 1000 800 เเล้วเเก้ขนาดของโดม เเละ svg ทั้งหมด-->
- <svg viewbox="0 0 1000 600"> <!-- Main SVG -->
-  <path d="M61,254 L61,291 L582,575 L582,539" fill="#996b34"/>
-  <path d="M582,539 L582,575 L930,385 L930,348" fill="#e6a04e"/>
-  <path d="M61,254 L582,539 L930,348 L410,61" fill="#6b8f72"/>
-  <path d="M113,247 L113,252 L292,350 L292,345" fill="#9b9b9b"/>
-  <path d="M113,247 L409,86 L587,183 L292,345" fill="#eaedef"/>
-  <path d="M113,247 L409,86 L587,183 L292,345" fill="#eaedef"/>
-  <path d="M292,345 L292,350 L587,189 L587,183" fill="#dbe1d6"/>
-  <path d="M158,255 L167,260 L169,201 L158,195" fill="#c0c6ba"/>
-  <path d="M167,268 L167,213 L209,234 L209,291" fill="#d6dcd2"/>
-  <path d="M209,292 L218,287 L218,232 L216,230 L209,234" fill="#f3f8ef"/>
-  <path d="M218,287 L266,312 L266,258 L218,232" fill="#dbe1d6"/>
-  <path d="M266,312 L282,304 L282,249 L266,257" fill="#f3f8ef"/>
-  <path d="M282,305 L290,308 L290,253 L282,250" fill="#dbe1d6"/>
-  <path d="M290,308 L328,289 L328,232 L290,253" fill="#f3f8ef"/>
-  <path d="M328,258 L336,255 L336,200 L324,207" fill="#f3f8ef"/>
-  <path d="M434,200 L453,210 L453,157 L434,149" fill="#dbe1d6"/>
-  <path d="M336,255 L340,257 L340,203 L336,202" fill="#dbe1d6"/>
-  <path d="M340,257 L340,202 L417,161 L417,215" fill="#f3f8ef"/>
-  <path d="M417,153 L417,210 L434,200 L434,148 L430,146" fill="#f3f8ef"/>
-  <path d="M453,157 L468,149 L468,203 L453,210" fill="#f3f8ef"/>
-  <path d="M468,202 L477,207 L477,153 L468,150" fill="#dbe1d6"/>
-  <path d="M477,207 L515,187 L514,133 L477,153" fill="#f3f8ef"/>
-  <path d="M514,176 L519,173 L519,120 L513,123" fill="#f3f8ef"/>
-  <path d="M158,174 L166,179 L160,183 L158,181" fill="#c7c7c7"/>
-  <path d="M155,186 L177,198 L170,203 L155,194" fill="#c7c7c7"/>
-  <path d="M165,204 L165,212 L206,235 L206,227" fill="#c7c7c7"/>
-  <path d="M207,228 L207,234 L215,230 L215,223" fill="#edf1ea"/>
-  <path d="M215,231 L215,224 L266,251 L266,258" fill="#c7c7c7"/>
-  <path d="M266,251 L266,257 L281,249 L281,242" fill="#edf1ea"/>
-  <path d="M281,242 L281,249 L288,253 L288,246" fill="#c7c7c7"/>
-  <path d="M289,246 L289,253 L329,231 L329,224" fill="#edf1ea"/>
-  <path d="M322,220 L328,224 L333,221 L333,214" fill="#edf1ea"/>
-  <path d="M317,204 L323,207 L334,201 L334,195" fill="#edf1ea"/>
-  <path d="M334,194 L334,200 L338,202 L338,195" fill="#c7c7c7"/>
-  <path d="M339,196 L339,203 L421,158 L421,151" fill="#edf1ea"/>
-  <path d="M414,146 L421,151 L429,147 L429,138" fill="#edf1ea"/>
-  <path d="M430,138 L430,146 L451,158 L451,150" fill="#c7c7c7"/>
-  <path d="M468,150 L468,142 L476,146 L476,154" fill="#c7c7c7"/>
-  <path d="M476,153 L476,146 L517,122 L517,132" fill="#edf1ea"/>
-  <path d="M508,116 L516,120 L521,117 L521,111" fill="#edf1ea"/>
-  <path d="M477,86 L486,81 L486,89 L484,90" fill="#edf1ea"/>
-  <path d="M343,86 L351,98 L343,120" fill="#6b6b6b"/>
-  <path d="M340,83 L357,93 L351,98 L340,91" fill="#6b6b6b"/>
-  <path d="M253,146 L262,150 L253,154" fill="#6b6b6b"/>
-  <path d="M346,74 L351,77 L346,80" fill="#6b6b6b"/>
-  <path d="M158,174 L167,179 L155,186 L177,198 L166,205 L206,228 L215,223 L265,251 L281,243 L288,246 L329,225 L322,220 L333,214 L317,203 L334,194 L339,196 L421,152 L414,146 L430,138 L451,150 L467,142 L476,146 L520,121 L510,117 L521,111 L478,86 L486,81 L439,54 L429,60 L407,48 L391,56 L383,52 L345,73 L351,77 340,83 L356,94 L338,104 L333,101 L253,146 L261,150 L244,159 L223,148 L208,156 L199,151" fill="#e8ebe5"/>
-  <path d="M264,143 L269,146 L264,148 " fill="#6b6b6b"/>
-  <path d="M295,199 L329,180 L329,186 L300,202" fill="#f3f8ef"/>
-  <path d="M329,180 L329,185 L339,192 L339,186" fill="#959595"/>
-  <path d="M339,187 L406,150 L406,155 L339,192" fill="#f3f8ef"/>
-  <path d="M396,144 L400,147 L430,130 L430,125" fill="#f3f8ef"/>
-  <path d="M233,166 L295,200 L330,180 L339,187 L406,149 L397,144 L430,126 L369,91 L335,110 L329,106 L264,143 L269,146 " fill="#c7c7c7"/>
-   <!--window Stair Door-->
-  <path d="M264,143 L269,146 L264,148 " fill="#6b6b6b"/>
-    <path d="M295,199 L329,180 L329,186 L300,202" fill="#f3f8ef"/>
-    <path d="M329,180 L329,185 L339,192 L339,186" fill="#959595"/>
-    <path d="M339,187 L406,150 L406,155 L339,192" fill="#f3f8ef"/>
-    <path d="M396,144 L400,147 L430,130 L430,125" fill="#f3f8ef"/>
-    <path d="M233,166 L295,200 L330,180 L339,187 L406,149 L397,144 L430,126 L369,91 L335,110 L329,106 L264,143 L269,146 " fill="#c7c7c7"/>
-<path d="M168,145 L168,217 L180,223 L180,269 L176,268 L175,223 L172,222 L172,265 L168,264" fill="#c0c5bd"/>
-    <path d="M182,271 L182,224 L194,230 L194,277 L190,275 L190,230 L186,229 L186,272 " fill="#c0c5bd"/>
-    <path d="M196,278 L196,231 L208,237 L208,284 L204,283 L203,237 L200,236 L200,279 " fill="#c0c5bd"/>
-    <path d="M222,285 L222,238 L234,244 L234,291 L230,289 L230,245 L227,243 L226,286 " fill="#c0c5bd"/>
-    <path d="M237,292 L237,245 L249,251 L249,298 L245,297 L245,252 L241,250 L241,294 " fill="#c0c5bd"/>
-     <path d="M252,300 L252,253 L264,259 L264,306 L259,304 L259,260 L256,258 L255,301 " fill="#c0c5bd"/>
-    <path d="M269,306 L269,260 L281,253 L281,300 L278,301 L278,258 L273,260 L273,304 " fill="#c0c5bd"/>
-    <path d="M300,294 L300,264 L310,258 L310,288  " fill="#dbe1d6"/>
-    <path d="M313,287 L313,256 L322,252 L322,282  " fill="#dbe1d6"/>
-    <path d="M292,308 L292,298 L300,300 L300,307  " fill="#dbe1d6"/>
-        <path d="M300,300 L292,298 L300,295 L306,297  " fill="#dbe1d6"/>
-      <path d="M301,306 L301,300 L306,298 L306,304  " fill="#ffffff"/>
-    <path d="M300,312 L300,307 L308,304 L312,307 L307,309  " fill="#dbe1d6"/>
-    <path d="M308,316 L308,310 L313,308 L313,313" fill="#ffffff"/>
-     <path d="M292,308 L292,305 L307,310 L307,316 L300,312" fill="#dbe1d6"/>
-   <path d="M315,312 L302,294 L324,282 L335,302" fill="#ffffff"/>
-    <path d="M326,283 L326,281 L331,278 L335,281 L330,284 L329,288  " fill="#dbe1d6"/>
-    <path d="M330,290 L330,284 L335,282 L335,288" fill="#ffffff"/>
-    <path d="M331,294 L331,291 L335,294 L335,301 " fill="#dbe1d6"/>
-     <path d="M332,290 L336,288 L341,292 L335,294 " fill="#dbe1d6"/>
-      <path d="M336,301 L336,295 L341,293 L341,299" fill="#ffffff"/>
-     <path d="M327,209 L333,207 L333,252 L329,254 L330,224 " fill="#dbe1d6"/>
-    <path d="M345,256 L345,245 L353,248 L353,259" fill="#dbe1d6"/>
-      <path d="M346,245 L354,242 L358,245 L353,248" fill="#dbe1d6"/>
-    <path d="M354,247 L359,245 L359,251 L354,254" fill="#ffffff"/>
-    <path d="M353,254 L353,260 L360,263 L360,256" fill="#dbe1d6"/>
-    <path d="M355,254 L360,256 L365,254 L361,251" fill="#dbe1d6"/>
-      <path d="M360,257 L366,255 L366,261 L361,263" fill="#ffffff"/>
-    <path d="M355,241 L369,259 L388,249 L377,230" fill="#ffffff"/>
-     <path d="M378,230 L379,228 L383,232 L383,236" fill="#dbe1d6"/>
-    <path d="M383,231 L379,227 L384,225 L387,229" fill="#dbe1d6"/>
-    <path d="M383,238 L383,232 L388,230 L388,235" fill="#ffffff"/>
-     <path d="M384,240 L384,238 L389,236 L393,239 L388,241 L388,248" fill="#dbe1d6"/>
-     <path d="M389,242 L389,248 L393,246 L393,240" fill="#ffffff"/>
-       <path d="M383,231 L379,227 L387,223 L392,226 " fill="#dbe1d6"/>
-    <path d="M390,234 L389,229 L393,227 L394,232" fill="#ffffff"/>
-    <path d="M384,238 L395,233 L399,236 L388,241 " fill="#dbe1d6"/>
-    <path d="M394,239 L394,246 L400,242 L399,237" fill="#ffffff"/>
-    <path d="M390,223 L402,242 L422,231 L411,212" fill="#ffffff"/>
-    <path d="M416,219 L412,212 L412,210 L417,213 " fill="#dbe1d6"/>
-    <path d="M416,213 L412,210 L418,207 L422,210 " fill="#dbe1d6"/>
-     <path d="M417,214 L422,211 L422,217 L417,220" fill="#ffffff"/>
-     <path d="M418,222 L418,220 L422,223 L422,229 " fill="#dbe1d6"/>
-    <path d="M418,220 L422,223 L426,221 L423,218 " fill="#dbe1d6"/>
-    <path d="M422,230 L422,224 L427,222 L427,228" fill="#ffffff"/>
-     <path d="M354,240 L354,210 L364,204 L364,234 " fill="#dbe1d6"/>    
-    <path d="M367,233 L367,202 L377,197 L377,228 " fill="#dbe1d6"/>
-    <path d="M387,222 L387,192 L398,186 L398,217 " fill="#dbe1d6"/>
-    <path d="M400,215 L400,184 L410,179 L410,210 " fill="#dbe1d6"/>
-    <path d="M479,206 L479,197 L486,199 L486,205 L486,210  " fill="#dbe1d6"/>
-      <path d="M487,211 L487,206 L494,208 L494,214" fill="#dbe1d6"/>
-    <path d="M479,197 L486,193 L492,195 L486,198" fill="#dbe1d6"/>
-      <path d="M488,206 L494,202 L499,205 L494,207" fill="#dbe1d6"/>
-    <path d="M419,207 L419,160 L431,153 L431,200 L427,202 L427,159 L423,160 L423,205" fill="#dbe1d6"/>
-     <path d="M487,199 L493,196 L493,201 L487,205" fill="#ffffff"/>
-    <path d="M438,200 L438,153 L450,159 L450,205 L446,204 L446,159 L441,157 L441,201" fill="#c0c5bd"/>
-       <path d="M494,214 L494,208 L499,206 L499,212" fill="#ffffff"/>
-    <path d="M455,206 L455,159 L467,153 L467,199 L463,201 L463,158 L459,159 L459,203 " fill="#dbe1d6"/>
-    <path d="M488,192 L504,209 L522,200 L511,181" fill="#ffffff"/>
-    <path d="M512,181 L512,179 L516,182 L516,188" fill="#dbe1d6"/>
-     <path d="M512,179 L516,182 L522,179 L518,176" fill="#dbe1d6"/>
-    <path d="M517,183 L517,189 L522,186 L522,180" fill="#ffffff"/>
-    <path d="M518,192 L518,190 L522,192 L522,199" fill="#dbe1d6"/>
-    <path d="M518,190 L522,193 L527,190 L523,187" fill="#dbe1d6"/>
-    <path d="M522,193 L522,199 L527,197 L527,191" fill="#ffffff"/>
-    <path d="M487,191 L487,161 L498,155 L498,186" fill="#dbe1d6"/>
-    <path d="M500,185 L500,154 L510,148 L510,179" fill="#dbe1d6"/>
-   
+    <!-- Building -->
+      <!--ใช้จริงจะทำการปรับ ขนาดเป็น 1000 800 เเล้วเเก้ขนาดของโดม เเละ svg ทั้งหมด-->
+     <svg viewbox="0 0 1000 600"> <!-- Main SVG -->
+      <path d="M61,254 L61,291 L582,575 L582,539" fill="#996b34"/>
+      <path d="M582,539 L582,575 L930,385 L930,348" fill="#e6a04e"/>
+      <path d="M61,254 L582,539 L930,348 L410,61" fill="#6b8f72"/>
+      <path d="M113,247 L113,252 L292,350 L292,345" fill="#9b9b9b"/>
+      <path d="M113,247 L409,86 L587,183 L292,345" fill="#eaedef"/>
+      <path d="M113,247 L409,86 L587,183 L292,345" fill="#eaedef"/>
+      <path d="M292,345 L292,350 L587,189 L587,183" fill="#dbe1d6"/>
+      <path d="M158,255 L167,260 L169,201 L158,195" fill="#c0c6ba"/>
+      <path d="M167,268 L167,213 L209,234 L209,291" fill="#d6dcd2"/>
+      <path d="M209,292 L218,287 L218,232 L216,230 L209,234" fill="#f3f8ef"/>
+      <path d="M218,287 L266,312 L266,258 L218,232" fill="#dbe1d6"/>
+      <path d="M266,312 L282,304 L282,249 L266,257" fill="#f3f8ef"/>
+      <path d="M282,305 L290,308 L290,253 L282,250" fill="#dbe1d6"/>
+      <path d="M290,308 L328,289 L328,232 L290,253" fill="#f3f8ef"/>
+      <path d="M328,258 L336,255 L336,200 L324,207" fill="#f3f8ef"/>
+      <path d="M434,200 L453,210 L453,157 L434,149" fill="#dbe1d6"/>
+      <path d="M336,255 L340,257 L340,203 L336,202" fill="#dbe1d6"/>
+      <path d="M340,257 L340,202 L417,161 L417,215" fill="#f3f8ef"/>
+      <path d="M417,153 L417,210 L434,200 L434,148 L430,146" fill="#f3f8ef"/>
+      <path d="M453,157 L468,149 L468,203 L453,210" fill="#f3f8ef"/>
+      <path d="M468,202 L477,207 L477,153 L468,150" fill="#dbe1d6"/>
+      <path d="M477,207 L515,187 L514,133 L477,153" fill="#f3f8ef"/>
+      <path d="M514,176 L519,173 L519,120 L513,123" fill="#f3f8ef"/>
+      <path d="M158,174 L166,179 L160,183 L158,181" fill="#c7c7c7"/>
+      <path d="M155,186 L177,198 L170,203 L155,194" fill="#c7c7c7"/>
+      <path d="M165,204 L165,212 L206,235 L206,227" fill="#c7c7c7"/>
+      <path d="M207,228 L207,234 L215,230 L215,223" fill="#edf1ea"/>
+      <path d="M215,231 L215,224 L266,251 L266,258" fill="#c7c7c7"/>
+      <path d="M266,251 L266,257 L281,249 L281,242" fill="#edf1ea"/>
+      <path d="M281,242 L281,249 L288,253 L288,246" fill="#c7c7c7"/>
+      <path d="M289,246 L289,253 L329,231 L329,224" fill="#edf1ea"/>
+      <path d="M322,220 L328,224 L333,221 L333,214" fill="#edf1ea"/>
+      <path d="M317,204 L323,207 L334,201 L334,195" fill="#edf1ea"/>
+      <path d="M334,194 L334,200 L338,202 L338,195" fill="#c7c7c7"/>
+      <path d="M339,196 L339,203 L421,158 L421,151" fill="#edf1ea"/>
+      <path d="M414,146 L421,151 L429,147 L429,138" fill="#edf1ea"/>
+      <path d="M430,138 L430,146 L451,158 L451,150" fill="#c7c7c7"/>
+      <path d="M468,150 L468,142 L476,146 L476,154" fill="#c7c7c7"/>
+      <path d="M476,153 L476,146 L517,122 L517,132" fill="#edf1ea"/>
+      <path d="M508,116 L516,120 L521,117 L521,111" fill="#edf1ea"/>
+      <path d="M477,86 L486,81 L486,89 L484,90" fill="#edf1ea"/>
+      <path d="M343,86 L351,98 L343,120" fill="#6b6b6b"/>
+      <path d="M340,83 L357,93 L351,98 L340,91" fill="#6b6b6b"/>
+      <path d="M253,146 L262,150 L253,154" fill="#6b6b6b"/>
+      <path d="M346,74 L351,77 L346,80" fill="#6b6b6b"/>
+      <path d="M158,174 L167,179 L155,186 L177,198 L166,205 L206,228 L215,223 L265,251 L281,243 L288,246 L329,225 L322,220 L333,214 L317,203 L334,194 L339,196 L421,152 L414,146 L430,138 L451,150 L467,142 L476,146 L520,121 L510,117 L521,111 L478,86 L486,81 L439,54 L429,60 L407,48 L391,56 L383,52 L345,73 L351,77 340,83 L356,94 L338,104 L333,101 L253,146 L261,150 L244,159 L223,148 L208,156 L199,151" fill="#e8ebe5"/>
+      <path d="M264,143 L269,146 L264,148 " fill="#6b6b6b"/>
+      <path d="M295,199 L329,180 L329,186 L300,202" fill="#f3f8ef"/>
+      <path d="M329,180 L329,185 L339,192 L339,186" fill="#959595"/>
+      <path d="M339,187 L406,150 L406,155 L339,192" fill="#f3f8ef"/>
+      <path d="M396,144 L400,147 L430,130 L430,125" fill="#f3f8ef"/>
+      <path d="M233,166 L295,200 L330,180 L339,187 L406,149 L397,144 L430,126 L369,91 L335,110 L329,106 L264,143 L269,146 " fill="#c7c7c7"/>
+       <!--window Stair Door-->
+      <path d="M264,143 L269,146 L264,148 " fill="#6b6b6b"/>
+        <path d="M295,199 L329,180 L329,186 L300,202" fill="#f3f8ef"/>
+        <path d="M329,180 L329,185 L339,192 L339,186" fill="#959595"/>
+        <path d="M339,187 L406,150 L406,155 L339,192" fill="#f3f8ef"/>
+        <path d="M396,144 L400,147 L430,130 L430,125" fill="#f3f8ef"/>
+        <path d="M233,166 L295,200 L330,180 L339,187 L406,149 L397,144 L430,126 L369,91 L335,110 L329,106 L264,143 L269,146 " fill="#c7c7c7"/>
+    <path d="M168,145 L168,217 L180,223 L180,269 L176,268 L175,223 L172,222 L172,265 L168,264" fill="#c0c5bd"/>
+        <path d="M182,271 L182,224 L194,230 L194,277 L190,275 L190,230 L186,229 L186,272 " fill="#c0c5bd"/>
+        <path d="M196,278 L196,231 L208,237 L208,284 L204,283 L203,237 L200,236 L200,279 " fill="#c0c5bd"/>
+        <path d="M222,285 L222,238 L234,244 L234,291 L230,289 L230,245 L227,243 L226,286 " fill="#c0c5bd"/>
+        <path d="M237,292 L237,245 L249,251 L249,298 L245,297 L245,252 L241,250 L241,294 " fill="#c0c5bd"/>
+         <path d="M252,300 L252,253 L264,259 L264,306 L259,304 L259,260 L256,258 L255,301 " fill="#c0c5bd"/>
+        <path d="M269,306 L269,260 L281,253 L281,300 L278,301 L278,258 L273,260 L273,304 " fill="#c0c5bd"/>
+        <path d="M300,294 L300,264 L310,258 L310,288  " fill="#dbe1d6"/>
+        <path d="M313,287 L313,256 L322,252 L322,282  " fill="#dbe1d6"/>
+        <path d="M292,308 L292,298 L300,300 L300,307  " fill="#dbe1d6"/>
+            <path d="M300,300 L292,298 L300,295 L306,297  " fill="#dbe1d6"/>
+          <path d="M301,306 L301,300 L306,298 L306,304  " fill="#ffffff"/>
+        <path d="M300,312 L300,307 L308,304 L312,307 L307,309  " fill="#dbe1d6"/>
+        <path d="M308,316 L308,310 L313,308 L313,313" fill="#ffffff"/>
+         <path d="M292,308 L292,305 L307,310 L307,316 L300,312" fill="#dbe1d6"/>
+       <path d="M315,312 L302,294 L324,282 L335,302" fill="#ffffff"/>
+        <path d="M326,283 L326,281 L331,278 L335,281 L330,284 L329,288  " fill="#dbe1d6"/>
+        <path d="M330,290 L330,284 L335,282 L335,288" fill="#ffffff"/>
+        <path d="M331,294 L331,291 L335,294 L335,301 " fill="#dbe1d6"/>
+         <path d="M332,290 L336,288 L341,292 L335,294 " fill="#dbe1d6"/>
+          <path d="M336,301 L336,295 L341,293 L341,299" fill="#ffffff"/>
+         <path d="M327,209 L333,207 L333,252 L329,254 L330,224 " fill="#dbe1d6"/>
+        <path d="M345,256 L345,245 L353,248 L353,259" fill="#dbe1d6"/>
+          <path d="M346,245 L354,242 L358,245 L353,248" fill="#dbe1d6"/>
+        <path d="M354,247 L359,245 L359,251 L354,254" fill="#ffffff"/>
+        <path d="M353,254 L353,260 L360,263 L360,256" fill="#dbe1d6"/>
+        <path d="M355,254 L360,256 L365,254 L361,251" fill="#dbe1d6"/>
+          <path d="M360,257 L366,255 L366,261 L361,263" fill="#ffffff"/>
+        <path d="M355,241 L369,259 L388,249 L377,230" fill="#ffffff"/>
+         <path d="M378,230 L379,228 L383,232 L383,236" fill="#dbe1d6"/>
+        <path d="M383,231 L379,227 L384,225 L387,229" fill="#dbe1d6"/>
+        <path d="M383,238 L383,232 L388,230 L388,235" fill="#ffffff"/>
+         <path d="M384,240 L384,238 L389,236 L393,239 L388,241 L388,248" fill="#dbe1d6"/>
+         <path d="M389,242 L389,248 L393,246 L393,240" fill="#ffffff"/>
+           <path d="M383,231 L379,227 L387,223 L392,226 " fill="#dbe1d6"/>
+        <path d="M390,234 L389,229 L393,227 L394,232" fill="#ffffff"/>
+        <path d="M384,238 L395,233 L399,236 L388,241 " fill="#dbe1d6"/>
+        <path d="M394,239 L394,246 L400,242 L399,237" fill="#ffffff"/>
+        <path d="M390,223 L402,242 L422,231 L411,212" fill="#ffffff"/>
+        <path d="M416,219 L412,212 L412,210 L417,213 " fill="#dbe1d6"/>
+        <path d="M416,213 L412,210 L418,207 L422,210 " fill="#dbe1d6"/>
+         <path d="M417,214 L422,211 L422,217 L417,220" fill="#ffffff"/>
+         <path d="M418,222 L418,220 L422,223 L422,229 " fill="#dbe1d6"/>
+        <path d="M418,220 L422,223 L426,221 L423,218 " fill="#dbe1d6"/>
+        <path d="M422,230 L422,224 L427,222 L427,228" fill="#ffffff"/>
+         <path d="M354,240 L354,210 L364,204 L364,234 " fill="#dbe1d6"/>    
+        <path d="M367,233 L367,202 L377,197 L377,228 " fill="#dbe1d6"/>
+        <path d="M387,222 L387,192 L398,186 L398,217 " fill="#dbe1d6"/>
+        <path d="M400,215 L400,184 L410,179 L410,210 " fill="#dbe1d6"/>
+        <path d="M479,206 L479,197 L486,199 L486,205 L486,210  " fill="#dbe1d6"/>
+          <path d="M487,211 L487,206 L494,208 L494,214" fill="#dbe1d6"/>
+        <path d="M479,197 L486,193 L492,195 L486,198" fill="#dbe1d6"/>
+          <path d="M488,206 L494,202 L499,205 L494,207" fill="#dbe1d6"/>
+        <path d="M419,207 L419,160 L431,153 L431,200 L427,202 L427,159 L423,160 L423,205" fill="#dbe1d6"/>
+         <path d="M487,199 L493,196 L493,201 L487,205" fill="#ffffff"/>
+        <path d="M438,200 L438,153 L450,159 L450,205 L446,204 L446,159 L441,157 L441,201" fill="#c0c5bd"/>
+           <path d="M494,214 L494,208 L499,206 L499,212" fill="#ffffff"/>
+        <path d="M455,206 L455,159 L467,153 L467,199 L463,201 L463,158 L459,159 L459,203 " fill="#dbe1d6"/>
+        <path d="M488,192 L504,209 L522,200 L511,181" fill="#ffffff"/>
+        <path d="M512,181 L512,179 L516,182 L516,188" fill="#dbe1d6"/>
+         <path d="M512,179 L516,182 L522,179 L518,176" fill="#dbe1d6"/>
+        <path d="M517,183 L517,189 L522,186 L522,180" fill="#ffffff"/>
+        <path d="M518,192 L518,190 L522,192 L522,199" fill="#dbe1d6"/>
+        <path d="M518,190 L522,193 L527,190 L523,187" fill="#dbe1d6"/>
+        <path d="M522,193 L522,199 L527,197 L527,191" fill="#ffffff"/>
+        <path d="M487,191 L487,161 L498,155 L498,186" fill="#dbe1d6"/>
+        <path d="M500,185 L500,154 L510,148 L510,179" fill="#dbe1d6"/>
+<!--หลังคาด้านขวา-->
+    <g id="roofRight">
+      <path d="M375,47 L389,51 L402,58 L392,58 Z" fill="#87988a" />
+      <path d="M375,47 L351,72 L369,82 L392,57 Z" fill="#6a7f6e" />
 
-<!-- tower -->
-<!-- use viewbox="0 -50 1000 600" -->
-<!-- use viewbox="<svg viewbox="-20 -20 1100 700">"-->
-<svg viewbox="-30 70 1100 500"> <!-- Drom SVG-->
-  <path d="M291,145 a2 1,0,0 0,90 0" fill="white" />
-  <path d="M291,145 a2 1,0,0 1,90 0" fill="white" />
-  <path d="M291,140 a2 1,0,0 0,90 0" fill="#c7c7c7" />
-  <path d="M291,140 a2 1,0,0 1,90 0" fill="#c7c7c7" />
-  <path d="M296,136 a2 1,0,0 0,80 0" fill="gray" />
-  <path d="M296,136 a2 1,0,0 1,80 0" fill="gray" />
-  <g stroke="white" stroke-width="0.5" stroke-linecap="round">
-    <path d="M298,139 l0,-40 l6,0 l0,40 z" fill="white" />
-    <path d="M305,144 l0,-40 l6,0 l0,40 z" fill="white" />
-    <path d="M312,149 l0,-40 l6,0 l0,40 z" fill="white" />
-    <path d="M320,152 l0,-40 l6,0 l0,40 z" fill="white" />
-    <path d="M329,154 l0,-40 l6,0 l0,40 z" fill="white" />
-    <path d="M338,154 l0,-40 l6,0 l0,40 z" fill="white" />
-    <path d="M347,152 l0,-40 l6,0 l0,40 z" fill="white" />
-    <path d="M355,149 l0,-40 l6,0 l0,40 z" fill="white" />
-    <path d="M362,144 l0,-40 l6,0 l0,40 z" fill="white" />
-    <path d="M369,139 l0,-40 l6,0 l0,40 z" fill="white" />
-  </g>
-  <path d="M295,99 a2 1,0,0 0,83 0" fill="white" />
-  <path d="M295,99 a2 1,0,0 1,83 0" fill="white" />
-  <path d="M295,94 a2 1,0,0 0,83 0" fill="#c7c7c7" />
-  <path d="M295,94 a2 1,0,0 1,83 0" fill="#c7c7c7" />
-  <path d="M299,89 a2 1,0,0 0,76 0" fill="white" />
-  <path d="M299,89 a2 1,0,0 1,76 0" fill="white" />
-  <path d="M302,87 a2 1,0,0 0,70 0" fill="#c7c7c7" />
-  <path d="M302,87 a2 1,0,0 1,70 0" fill="#c7c7c7" />
-  <path d="M302,87 a2 1,0,0 0,70 0" fill="gray" />
-  <path d="M302,87 a2 1,0,0 1,70 0" fill="gray" />
-  <path d="M304,85 a2 1,0,0 0,65 0" fill="white" />
-  <path d="M304,85 a2 1,0,0 1,65 0" fill="white" />
-  <path d="M307,85 a2 1,0,0 0,60 0" fill="gray" />
-  <path d="M307,85 a2 1,0,0 1,60 0" fill="gray" />
-  <g stroke="white" stroke-width="0.5" stroke-linecap="round">
-    <path d="M305,91 l0,-25 l6,0 l0,25 z" fill="white" />
-    <path d="M312,96 l0,-25 l6,0 l0,25 z" fill="white" />
-    <path d="M320,99 l0,-25 l6,0 l0,25 z" fill="white" />
-    <path d="M329,101 l0,-25 l6,0 l0,25 z" fill="white" />
-    <path d="M338,101 l0,-25 l6,0 l0,25 z" fill="white" />
-    <path d="M347,99 l0,-25 l6,0 l0,25 z" fill="white" />
-    <path d="M355,96 l0,-25 l6,0 l0,25 z" fill="white" />
-    <path d="M362,91 l0,-25 l6,0 l0,25 z" fill="white" />
-  </g>
-  <path d="M302,62 a2 1,0,0 0,70 0" fill="white" />
-  <path d="M302,62 a2 1,0,0 1,70 0" fill="white" />
-  <path d="M302,60 a2 1,0,0 0,70 0" fill="#c7c7c7" />
-  <path d="M302,60 a2 1,0,0 1,70 0" fill="#c7c7c7" />
-  <path d="M307,58 a2 1,0,0 0,60 0" fill="white" />
-  <path d="M307,58 a2 1,0,0 1,60 0" fill="white" />
-  <path d="M307,54 a2 1,0,0 0,60 0" fill="gray" />
-  <path d="M307,54 a2 1,0,0 1,60 0" fill="gray" />
-  <path d="M307,52 a2 1,0,0 0,60 0" fill="white" />
-  <path d="M307,52 a2 1,0,0 1,60 0" fill="white" />
-  <!-- Dome -->
-  <path d="M307,48 a2 1,0,0 0,60 0" fill="#c7c7c7" />
-  <path d="M307,49 a1 1.1,0,0 1,60 0" fill="#c7c7c7" />
-  <path d="M319,25 a2 1,0,0 0,35 0" fill="gray" />
-  <path d="M319,25 a2 1,0,0 1,35 0" fill="gray" />
-  <path d="M319,23 a2 1,0,0 0,35 0" fill="white" />
-  <path d="M319,24 a2 1,0,0 1,35 0" fill="white" />
-  <path d="M323,20 a2 1,0,0 0,27 0" fill="#c7c7c7" />
-  <path d="M323,21 a1 1,0,0 1,27 0" fill="#c7c7c7" />
-  <path d="M325,11 a2 1,0,0 0,23 0" fill="gray" />
-  <path d="M325,11 a2 1,0,0 1,23 0" fill="gray" />
-  <path d="M325,9 a2 1,0,0 0,23 0" fill="#c7c7c7" />
-  <path d="M325,9 a2 1,0,0 1,23 0" fill="#c7c7c7" />
-  <path d="M326,7 a2 1,0,0 0,21 0" fill="white" />
-  <path d="M326,7 a2 1,0,0 1,21 0" fill="white" />
-  <path d="M326,5 a2 1,0,0 0,21 0" fill="hsl(209,30%,50%)" />
-  <path d="M326,6 a2 1,0,0 1,21 0" fill="hsl(209,30%,50%)" />
-  <path d="M334,4 a0.5 5,0,0 1,5 0" fill="hsl(209,30%,50%)" />
-</svg> <!-- Drom SVG -->
+      <path d="M485,106 L514,115 L415,61 L387,52 Z" fill="#87988a" />
+      <path d="M454,140 L357,84 L388,52 L486,106 Z" fill="#6a7f6e" />
 
+      <path d="M475,142 L499,116 L512,119  Z" fill="#d1d1d1" />
+      <path d="M499,116 L512,119 L500,113 L485,109  Z" fill="#95a496" />
+      <path d="M499,116 L475,142 L462,134 L485,109  Z" fill="#6a7f6e" />
+    </g>
+<!--หลังคาตรงกลาง-->
+    <g id="roofCenter" >
+      <path d="M237,168, L280,144 L283,146 L240,170  Z" fill="#6a7f6e" />
+      <path d="M275,147 L268,142 L321,113 L328,117 Z" fill="#6a7f6e" />
+      <path d="M321,122 L324,124 L377,95 L374,93 Z" fill="#6a7f6e" />
+    </g>
+<!--หลังคาด้านซ้าย-->
+    <g id="roofLeft">
+      <path d="M187,149 L200,156 L205,156 L198,152 Z " fill="#94a395" />
+      <path d="M163,174 L187,149 L200,156 L180,184 Z " fill="#6a7f6e" />
+    
+      <path d="M287,242 L310,216 L325,220 Z" fill="#d1d1d1" />
+
+      <path d="M309,216 L325,220 L313,214 L297,209  Z" fill="#87988a" />
+      <path d="M287,242 L310,216 L297,209 L274,234  Z" fill="#6a7f6e" />
    
-   
-   
- </svg> <!-- Main SVG-->
-</svg> <!-- Background SVG-->
+    
+      <path d="M266,239 L297,206 L199,153 L169,185 Z" fill="#6a7f6e" />
+      <path d="M296,206 L325,216 L226,162 L198,153  Z" fill="#87988a" />
+    </g>
+<!-- โดมหลังคา -->
+    <g id="dome1">
+      <path d="M265,173 a1 0.5,0,0 0,36 -1" fill="#637967" />
+      <path d="M265,173 a1 0.4,0,0 0,36 -1" fill="#ffff" />
+      <path d="M265,173 a1 0.4,0,0 1,36 -1" fill="#ffff" />
+      <path d="M266,173.5 a1 1,0,0 1,34 -0.5" fill="#87988a"/>
+      <path d="M266,173 a1 0.3,0,0 0,34 -1" fill="#87988a" />
+      <path d="M276,158 a1 0.4,0,0 0,14.5 0" fill="#ffff" />
+      <path d="M276,158.5 a1 0.4,0,0 1,14.5 0" fill="#ffff" />
+      <path d="M278,157 a1 0.3,0,0 0,11 0" fill="#7e7e7e" />
+      <path d="M278,157.5 a1 0.4,0,0 1,11 0" fill="#7e7e7e" />
+      <path d="M278,155 a1 0.4,0,0 0,11 0" fill="#c2d3c5" />
+      <path d="M278,155.1 a1 0.4,0,0 1,11 0" fill="#c2d3c5" />
+    </g>
+    <g id="dome2">
+      <path d="M368,120 a1 0.5,0,0 0,36 -1" fill="#637967" />
+      <path d="M368,120 a1 0.4,0,0 0,36 -1" fill="#ffff" />
+      <path d="M368,120 a1 0.4,0,0 1,36 -1" fill="#ffff" />
+      <path d="M369,120.5 a1 1,0,0 1,34 -0.5" fill="#87988a"/>
+      <path d="M369,120 a1 0.3,0,0 0,34 -1" fill="#87988a" />
+      <path d="M379,105 a1 0.4,0,0 0,14.5 0" fill="#ffff" />
+      <path d="M379,105.5 a1 0.4,0,0 1,14.5 0" fill="#ffff" />
+      <path d="M381,104 a1 0.3,0,0 0,11 0" fill="#7e7e7e" />
+      <path d="M381,104.5 a1 0.4,0,0 1,11 0" fill="#7e7e7e" />
+      <path d="M381,102 a1 0.4,0,0 0,11 0" fill="#c2d3c5" />
+      <path d="M381,102.1 a1 0.4,0,0 1,11 0" fill="#c2d3c5" />
+    </g>
+    <!-- tower -->
+    <!-- use viewbox="0 -50 1000 600" -->
+    <!-- use viewbox="<svg viewbox="-20 -20 1100 700">"-->
+    <svg viewbox="-30 70 1100 500"> <!-- Drom SVG-->
+      <path d="M291,145 a2 1,0,0 0,90 0" fill="white" />
+      <path d="M291,145 a2 1,0,0 1,90 0" fill="white" />
+      <path d="M291,140 a2 1,0,0 0,90 0" fill="#c7c7c7" />
+      <path d="M291,140 a2 1,0,0 1,90 0" fill="#c7c7c7" />
+      <path d="M296,136 a2 1,0,0 0,80 0" fill="gray" />
+      <path d="M296,136 a2 1,0,0 1,80 0" fill="gray" />
+      <g stroke="white" stroke-width="0.5" stroke-linecap="round">
+        <path d="M298,139 l0,-40 l6,0 l0,40 z" fill="white" />
+        <path d="M305,144 l0,-40 l6,0 l0,40 z" fill="white" />
+        <path d="M312,149 l0,-40 l6,0 l0,40 z" fill="white" />
+        <path d="M320,152 l0,-40 l6,0 l0,40 z" fill="white" />
+        <path d="M329,154 l0,-40 l6,0 l0,40 z" fill="white" />
+        <path d="M338,154 l0,-40 l6,0 l0,40 z" fill="white" />
+        <path d="M347,152 l0,-40 l6,0 l0,40 z" fill="white" />
+        <path d="M355,149 l0,-40 l6,0 l0,40 z" fill="white" />
+        <path d="M362,144 l0,-40 l6,0 l0,40 z" fill="white" />
+        <path d="M369,139 l0,-40 l6,0 l0,40 z" fill="white" />
+      </g>
+      <path d="M295,99 a2 1,0,0 0,83 0" fill="white" />
+      <path d="M295,99 a2 1,0,0 1,83 0" fill="white" />
+      <path d="M295,94 a2 1,0,0 0,83 0" fill="#c7c7c7" />
+      <path d="M295,94 a2 1,0,0 1,83 0" fill="#c7c7c7" />
+      <path d="M299,89 a2 1,0,0 0,76 0" fill="white" />
+      <path d="M299,89 a2 1,0,0 1,76 0" fill="white" />
+      <path d="M302,87 a2 1,0,0 0,70 0" fill="#c7c7c7" />
+      <path d="M302,87 a2 1,0,0 1,70 0" fill="#c7c7c7" />
+      <path d="M302,87 a2 1,0,0 0,70 0" fill="gray" />
+      <path d="M302,87 a2 1,0,0 1,70 0" fill="gray" />
+      <path d="M304,85 a2 1,0,0 0,65 0" fill="white" />
+      <path d="M304,85 a2 1,0,0 1,65 0" fill="white" />
+      <path d="M307,85 a2 1,0,0 0,60 0" fill="gray" />
+      <path d="M307,85 a2 1,0,0 1,60 0" fill="gray" />
+      <g stroke="white" stroke-width="0.5" stroke-linecap="round">
+        <path d="M305,91 l0,-25 l6,0 l0,25 z" fill="white" />
+        <path d="M312,96 l0,-25 l6,0 l0,25 z" fill="white" />
+        <path d="M320,99 l0,-25 l6,0 l0,25 z" fill="white" />
+        <path d="M329,101 l0,-25 l6,0 l0,25 z" fill="white" />
+        <path d="M338,101 l0,-25 l6,0 l0,25 z" fill="white" />
+        <path d="M347,99 l0,-25 l6,0 l0,25 z" fill="white" />
+        <path d="M355,96 l0,-25 l6,0 l0,25 z" fill="white" />
+        <path d="M362,91 l0,-25 l6,0 l0,25 z" fill="white" />
+      </g>
+      <path d="M302,62 a2 1,0,0 0,70 0" fill="white" />
+      <path d="M302,62 a2 1,0,0 1,70 0" fill="white" />
+      <path d="M302,60 a2 1,0,0 0,70 0" fill="#c7c7c7" />
+      <path d="M302,60 a2 1,0,0 1,70 0" fill="#c7c7c7" />
+      <path d="M307,58 a2 1,0,0 0,60 0" fill="white" />
+      <path d="M307,58 a2 1,0,0 1,60 0" fill="white" />
+      <path d="M307,54 a2 1,0,0 0,60 0" fill="gray" />
+      <path d="M307,54 a2 1,0,0 1,60 0" fill="gray" />
+      <path d="M307,52 a2 1,0,0 0,60 0" fill="white" />
+      <path d="M307,52 a2 1,0,0 1,60 0" fill="white" />
+      <!-- Dome -->
+      <path d="M307,48 a2 1,0,0 0,60 0" fill="#c7c7c7" />
+      <path d="M307,49 a1 1.1,0,0 1,60 0" fill="#c7c7c7" />
+      <path d="M319,25 a2 1,0,0 0,35 0" fill="gray" />
+      <path d="M319,25 a2 1,0,0 1,35 0" fill="gray" />
+      <path d="M319,23 a2 1,0,0 0,35 0" fill="white" />
+      <path d="M319,24 a2 1,0,0 1,35 0" fill="white" />
+      <path d="M323,20 a2 1,0,0 0,27 0" fill="#c7c7c7" />
+      <path d="M323,21 a1 1,0,0 1,27 0" fill="#c7c7c7" />
+      <path d="M325,11 a2 1,0,0 0,23 0" fill="gray" />
+      <path d="M325,11 a2 1,0,0 1,23 0" fill="gray" />
+      <path d="M325,9 a2 1,0,0 0,23 0" fill="#c7c7c7" />
+      <path d="M325,9 a2 1,0,0 1,23 0" fill="#c7c7c7" />
+      <path d="M326,7 a2 1,0,0 0,21 0" fill="white" />
+      <path d="M326,7 a2 1,0,0 1,21 0" fill="white" />
+      <path d="M326,5 a2 1,0,0 0,21 0" fill="hsl(209,30%,50%)" />
+      <path d="M326,6 a2 1,0,0 1,21 0" fill="hsl(209,30%,50%)" />
+      <path d="M334,4 a0.5 5,0,0 1,5 0" fill="hsl(209,30%,50%)" />
+    </svg> <!-- Drom SVG -->
+
+    <!-- หลังคาสามเหลี่ยมด้านหน้า-->
+      <path d="M399,149 L396,151 L384,144 L426,120 L429,122 L391,144 Z" fill="#6a7f6e" />
+      <path d="M342,182 L381,148 L396,151 Z" fill="#c4c4c4" />
+      <path d="M380,148 L373,143 L386,145 L396,151 Z" fill="#87988a" />
+      <path d="M291,199 L288,197 L335,170 L339,173 L374,143 L381,148 L342,182 L331,176  Z" fill="#6a7f6e" />
+    
+       
+       
+     </svg> <!-- Main SVG-->
+    </svg> <!-- Background SVG-->
