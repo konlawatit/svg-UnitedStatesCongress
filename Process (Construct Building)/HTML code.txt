@@ -321,8 +321,34 @@
       <path d="M342,182 L381,148 L396,151 Z" fill="#c4c4c4" />
       <path d="M380,148 L373,143 L386,145 L396,151 Z" fill="#87988a" />
       <path d="M291,199 L288,197 L335,170 L339,173 L374,143 L381,148 L342,182 L331,176  Z" fill="#6a7f6e" />
-    
-       
-       
+
+<!-- น้ำพุ -->
+    <path d="M535,359 a1.5 1,0,0 0,114 0" fill="#426d4a" />
+    <path d="M535,360 a1.5 1,0,0 1,114 0" fill="#426d4a" />
+    <path d="M550,357 a1.5 1,0,0 0,114 0" fill="#eaedef" />
+    <path d="M550,358 a1.5 1,0,0 1,114 0" fill="#eaedef" />
+    <path d="M557,355 a1.5 1,0,0 0,100 0" fill="#c7c7c7" />
+    <path d="M557,356 a1.5 1,0,0 1,100 0" fill="#c7c7c7" />
+    <path d="M562,355 a1.5 1,0,0 0,90 0" fill="#2c9aff" />
+    <path d="M562,356 a1.5 1,0,0 1,90 0" fill="#2c9aff" />    
+    <path d="M562,356 a1.5 1,0,0 0,87 0" fill="#b6dcff" />
+    <path d="M562,357 a1.5 1,0,0 1,87 0" fill="#b6dcff" />
+    <path d="M577,357 a1.5 1,0,0 0,55 0" fill="#2c9aff" />
+    <path d="M577,358 a1.5 1,0,0 1,55 0" fill="#2c9aff" />
+    <path d="M580,354 a1.5 1,0,0 0,55 0" fill="#dbe1d6" />
+    <path d="M580,355 a1.5 1,0,0 1,55 0" fill="#dbe1d6" />   
+    <path d="M589,353 a1.5 1,0,0 0,37 0" fill="#eaedef" />
+    <path d="M589,354 a1.5 1,0,0 1,37 0" fill="#eaedef" /> 
+    <path d="M598,350 v-20 h20 v20 z" fill="#eaedef" /> 
+    <path d="M580,319 a1.5 1,0,0 0,55 0" fill="#dbe1d6" />
+    <path d="M580,320 a1.5 1,0,0 1,55 0" fill="#dbe1d6" />
+    <path d="M574,307 a1.5 1,0,0 0,66 0" fill="#eaedef" />
+    <path d="M574,308 a1.5 1,0,0 1,66 0" fill="#eaedef" />
+    <path d="M580,306 a1.5 1,0,0 0,55 0" fill="#2c9aff" />
+    <path d="M580,307 a1.5 1,0,0 1,55 0" fill="#2c9aff" />    
+    <path d="M580,307 a1.5 1,0,0 0,53 0" fill="#b6dcff" />
+    <path d="M580,308 a1.5 1,0,0 1,53 0" fill="#b6dcff" />
+    <path d="M605,308 a1 10,0,0 1,5 0" fill="#2c9aff" />
+
      </svg> <!-- Main SVG-->
     </svg> <!-- Background SVG-->
