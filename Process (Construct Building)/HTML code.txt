@@ -8,6 +8,14 @@
       <path d="M113,247 L113,252 L292,350 L292,345" fill="#9b9b9b"/>
       <path d="M113,247 L409,86 L587,183 L292,345" fill="#eaedef"/>
       <path d="M113,247 L409,86 L587,183 L292,345" fill="#eaedef"/>
+       <path d="M61,267 L61,292 L228,383 L228,373 L154,332 L154,318" fill="#54422d"/>
+       <path d="M87,268 L87,281 L154,318 L154,332 L228,373 L228,383 L313,429 L313,404 L223,353 L223,344" fill="#74532c"/>
+       <path d="M326,436 L416,485 L416,460 L507,510 L507,503 L524,513 L524,508 L372,424 L372,448 L326,422" fill="#74532c"/>
+       <path d="M416,485 L582,576 L582,545 L507,503 L507,510 L416,460 " fill="#54422d"/>
+       <path d="M582,545 L714,472 L714,489 L780,451 L780,468 L582,576 " fill="#d4964c "/>
+       <path d="M582,562 L648,526 L648,540 L582,576 " fill="#a0713a "/>
+       <path d="M799,457 L930,386 L930,357 L830,412 L830,425 L799,442" fill="#a0713a "/>
+       <path d="M781,431 L902,365 L902,372 L830,412 L830,425 L799,442 L799,454 L792,458 L792,442 L781,448" fill="#d4964c "/>
        <!-- เงาเพิ่มใหม่ -->
        <path d="M209,291 L114,247 L157,223" fill="#9b9b9b"/>
        <path d="M266,312 L114,247 L157,223" fill="#9b9b9b"/>
@@ -337,11 +345,9 @@
       <path d="M380,148 L373,143 L386,145 L396,151 Z" fill="#87988a" />
       <path d="M291,199 L288,197 L335,170 L339,173 L374,143 L381,148 L342,182 L331,176  Z" fill="#6a7f6e" />
     
- <!-- น้ำพุ -->
-    <path d="M535,361 a1.5 1,0,0 0,116 0" fill="#426d4a" />
-    <path d="M535,362 a1.5 1,0,0 1,116 0" fill="#426d4a" />
-    <path d="M549,360 a1.5 1,0,0 0,116 0" fill="#c7c7c7" />
-    <path d="M549,360 a1.5 1,0,0 1,116 0" fill="#c7c7c7" />
+       <!-- น้ำพุ -->
+    <path d="M535,359 a1.5 1,0,0 0,114 0" fill="#426d4a" />
+    <path d="M535,360 a1.5 1,0,0 1,114 0" fill="#426d4a" />
     <path d="M550,357 a1.5 1,0,0 0,114 0" fill="#eaedef" />
     <path d="M550,358 a1.5 1,0,0 1,114 0" fill="#eaedef" />
     <path d="M557,355 a1.5 1,0,0 0,100 0" fill="#c7c7c7" />
@@ -366,7 +372,79 @@
     <path d="M580,307 a1.5 1,0,0 0,53 0" fill="#b6dcff" />
     <path d="M580,308 a1.5 1,0,0 1,53 0" fill="#b6dcff" />
     <path d="M605,308 a1 10,0,0 1,5 0" fill="#2c9aff" />
-
        
+    <!-- Cloud No 1 -->
+       <g id="star_anima">
+   <svg viewbox="0 0 1000 600">
+       <path d="M182,11 L182,28 L41,106  L41,89" fill="#63a7e6" />
+       <path d="M41,89 L41,106 L132,156  L132,140" fill="#63a7e6" />
+       <path d="M182,11 L182,28 L272,79  L272,62" fill="#b0d6f9" />
+       <path d="M132,140 L132,156 L272,79  L272,63" fill="#b0d6f9" />
+       <path id="staropa" d="M41,89 L182,11 L272,63  L132,140" fill="#ffffff"/>
+       <!-- Small Cloud -->
+       <path d="M157,57 L82,99 L82,107  L131,134 L131,125 L91,102 L157,65" fill="#63a7e6" />
+       <path d="M131,125 L199,88 L158,66  L158,57 L205,84 L205,94 L131,134" fill="#b0d6f9" />
+       <path id="staropa" d="M82,98 L158,56 L205,84  L131,125" fill="#ffffff" />
+       </svg>
+         </g>
+       
+       <!-- Cloud No 2 -->
+       <g id="star_anima2">
+   <svg viewbox="0 -380 1300 600">
+       <path d="M182,11 L182,28 L41,106  L41,89" fill="#63a7e6" />
+       <path d="M41,89 L41,106 L132,156  L132,140" fill="#63a7e6" />
+       <path d="M182,11 L182,28 L272,79  L272,62" fill="#b0d6f9" />
+       <path d="M132,140 L132,156 L272,79  L272,63" fill="#b0d6f9" />
+       <path id="staropa" d="M41,89 L182,11 L272,63  L132,140" fill="#ffffff"/>
+       <!-- Small Cloud -->
+       <path d="M157,57 L82,99 L82,107  L131,134 L131,125 L91,102 L157,65" fill="#63a7e6" />
+       <path d="M131,125 L199,88 L158,66  L158,57 L205,84 L205,94 L131,134" fill="#b0d6f9" />
+       <path id="staropa" d="M82,98 L158,57 L205,84  L131,125" fill="#ffffff" />
+       </svg>
+         </g>
+       
+       <!-- เงา -->
+       <g id="star_anima">
+       <path id="staropa1" d="M709,257 L775,294 L674,350  L608,313" fill="#2e4c34"/>
+         </g>
      </svg> <!-- Main SVG-->
+  
+  <!-- Cloud No 3 -->
+  <g id="star_anima1">
+   <svg viewbox="-200 90 400 400">
+       <path d="M182,11 L182,28 L41,106  L41,89" fill="#63a7e6" />
+       <path d="M41,89 L41,106 L132,156  L132,140" fill="#63a7e6" />
+       <path d="M182,11 L182,28 L272,79  L272,62" fill="#b0d6f9" />
+       <path d="M132,140 L132,156 L272,79  L272,63" fill="#b0d6f9" />
+       <path id="staropa" d="M41,89 L182,11 L272,63  L132,140" fill="#ffffff"/>
+       </svg>
+    </g>
+  
+  <!-- Cloud No 4 -->
+  <g id="star_anima1">
+   <svg viewbox="-200 -160 300 300">
+       <path d="M182,11 L182,28 L41,106  L41,89" fill="#63a7e6" />
+       <path d="M41,89 L41,106 L132,156  L132,140" fill="#63a7e6" />
+       <path d="M182,11 L182,28 L272,79  L272,62" fill="#b0d6f9" />
+       <path d="M132,140 L132,156 L272,79  L272,63" fill="#b0d6f9" />
+       <path id="staropa" d="M41,89 L182,11 L272,63  L132,140" fill="#ffffff"/>
+       </svg>
+    </g>
+
+  <!-- Cloud No 5 -->
+  <g id="star_anima">
+   <svg viewbox="-850 -150 1100 600">
+       <path d="M182,11 L182,28 L41,106  L41,89" fill="#63a7e6" />
+       <path d="M41,89 L41,106 L132,156  L132,140" fill="#63a7e6" />
+       <path d="M182,11 L182,28 L272,79  L272,62" fill="#b0d6f9" />
+       <path d="M132,140 L132,156 L272,79  L272,63" fill="#b0d6f9" />
+       <path id="staropa" d="M41,89 L182,11 L272,63  L132,140" fill="#ffffff"/>
+       <!-- Small Cloud -->
+     <svg viewbox="-25 35 1100 600">
+       <path d="M157,57 L82,99 L82,107  L131,134 L131,125 L91,102 L157,65" fill="#63a7e6" />
+       <path d="M131,125 L199,88 L158,66  L158,57 L205,84 L205,94 L131,134" fill="#b0d6f9" />
+       <path id="staropa" d="M82,98 L158,56 L205,84  L131,125" fill="#ffffff" />
+       </g>
+       </svg>
+     </svg>
     </svg> <!-- Background SVG-->
