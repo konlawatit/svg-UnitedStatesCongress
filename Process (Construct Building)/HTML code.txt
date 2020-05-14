@@ -375,9 +375,12 @@
     <path d="M574,308 a1.5 1,0,0 1,66 0" fill="#eaedef" />
     <path d="M580,306 a1.5 1,0,0 0,55 0" fill="#2c9aff" />
     <path d="M580,307 a1.5 1,0,0 1,55 0" fill="#2c9aff" />    
-    <path d="M580,307 a1.5 1,0,0 0,53 0" fill="#b6dcff" />
     <path d="M580,308 a1.5 1,0,0 1,53 0" fill="#b6dcff" />
-    <path d="M605,308 a1 10,0,0 1,5 0" fill="#2c9aff" />
+    <ellipse cx="606" cy="298" rx="2.5" ry="5" fill="#2c9aff" >
+      <animate attributeName="ry" values="13;26;13" dur="3.5s" repeatCount="indefinite" />
+    </ellipse>
+    <path d="M580,307 a1.5 1,0,0 0,53 0" fill="#b6dcff" />
+    
        
     <!-- Cloud No 1 -->
        <g id="star_anima">
