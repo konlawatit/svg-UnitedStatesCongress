@@ -21,3 +21,7 @@
 @keyframes cloud {
   60% { transform: translateX(10px); }
 }
+body {
+  margin: 0;
+  margin-bottom: 0;
+}
