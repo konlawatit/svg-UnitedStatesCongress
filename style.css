@@ -1,0 +1,27 @@
+#svg1{
+  background-color: #90b7db;
+}
+#star_anima{
+  animation: cloud 3000ms steps(50) infinite;
+}
+#star_anima1{
+  animation: cloud 5000ms steps(50) infinite;
+}
+#star_anima2{
+  animation: cloud 6000ms steps(50) infinite;
+}
+
+#staropa1{
+  opacity: 0.3;
+}
+#staropa{
+  opacity: 0.8;
+}
+
+@keyframes cloud {
+  60% { transform: translateX(10px); }
+}
+body {
+  margin: 0;
+  margin-bottom: 0;
+}
