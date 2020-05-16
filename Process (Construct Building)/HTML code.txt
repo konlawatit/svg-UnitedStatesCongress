@@ -186,11 +186,14 @@
     </g>
 <!-- โดมหลังคา -->
     <g id="dome1">
-      <path d="M265,173 a1 0.5,0,0 0,36 -1" fill="#637967" />
+      <path d="M260,173 a1 0.4,0,0 0,40 -1" fill="hsl(	0, 3%, 3%, 0.35)" />
+      <path d="M260,173 a1 0.4,0,0 1,40 -1" fill="hsl(	0, 3%, 3%, 0.35)" />
       <path d="M265,173 a1 0.4,0,0 0,36 -1" fill="#ffff" />
       <path d="M265,173 a1 0.4,0,0 1,36 -1" fill="#ffff" />
-      <path d="M266,173.5 a1 1,0,0 1,34 -0.5" fill="#87988a"/>
-      <path d="M266,173 a1 0.3,0,0 0,34 -1" fill="#87988a" />
+      <path d="M266,173.5 a1 1,0,0 1,34 -0.5" fill="hsl(131, 8%, 45%)"/>
+      <path d="M266,173 a1 0.3,0,0 0,34 -1" fill="hsl(131, 8%, 45%)" />
+      <path d="M268,173.5 a1 1,0,0 1,32 -0.5" fill="#87988a"/>
+      <path d="M268,173 a1 0.3,0,0 0,32 -1" fill="#87988a" />
       <path d="M276,158 a1 0.4,0,0 0,14.5 0" fill="#ffff" />
       <path d="M276,158.5 a1 0.4,0,0 1,14.5 0" fill="#ffff" />
       <path d="M278,157 a1 0.3,0,0 0,11 0" fill="#7e7e7e" />
@@ -199,11 +202,14 @@
       <path d="M278,155.1 a1 0.4,0,0 1,11 0" fill="#c2d3c5" />
     </g>
     <g id="dome2">
-      <path d="M368,120 a1 0.5,0,0 0,36 -1" fill="#637967" />
+      <path d="M364,120 a1 0.4,0,0 0,40 -1" fill="hsl(	0, 3%, 3%, 0.35)" />
+      <path d="M364,120 a1 0.4,0,0 1,40 -1" fill="hsl(	0, 3%, 3%, 0.35)" />
       <path d="M368,120 a1 0.4,0,0 0,36 -1" fill="#ffff" />
       <path d="M368,120 a1 0.4,0,0 1,36 -1" fill="#ffff" />
-      <path d="M369,120.5 a1 1,0,0 1,34 -0.5" fill="#87988a"/>
-      <path d="M369,120 a1 0.3,0,0 0,34 -1" fill="#87988a" />
+      <path d="M369,120.5 a1 1,0,0 1,34 -0.5" fill="hsl(131, 8%, 45%)"/>
+      <path d="M369,120 a1 0.3,0,0 0,34 -1" fill="hsl(131, 8%, 45%)" />
+      <path d="M371,120.5 a1 1,0,0 1,32 -0.5" fill="#87988a"/>
+      <path d="M371,120 a1 0.3,0,0 0,32 -1" fill="#87988a" />
       <path d="M379,105 a1 0.4,0,0 0,14.5 0" fill="#ffff" />
       <path d="M379,105.5 a1 0.4,0,0 1,14.5 0" fill="#ffff" />
       <path d="M381,104 a1 0.3,0,0 0,11 0" fill="#7e7e7e" />
@@ -215,28 +221,48 @@
     <!-- use viewbox="0 -50 1000 600" -->
     <!-- use viewbox="<svg viewbox="-20 -20 1100 700">"-->
     <svg viewbox="-30 70 1100 500"> <!-- Drom SVG-->
+      <path d="M275,144.8 a2 1,0,0 0,95 0" fill="hsl(	0, 3%, 3%, 0.35)" />
+      <path d="M275,145 a2 1,0,0 1,95 0" fill="hsl(	0, 3%, 3%, 0.35)" />
       <path d="M291,145 a2 1,0,0 0,90 0" fill="white" />
       <path d="M291,145 a2 1,0,0 1,90 0" fill="white" />
       <path d="M291,140 a2 1,0,0 0,90 0" fill="#c7c7c7" />
       <path d="M291,140 a2 1,0,0 1,90 0" fill="#c7c7c7" />
-      <path d="M296,136 a2 1,0,0 0,80 0" fill="gray" />
-      <path d="M296,136 a2 1,0,0 1,80 0" fill="gray" />
+      <path d="M296,136 a2 1,0,0 0,81 0" fill="gray" />
+      <path d="M296,136 a2 1,0,0 1,81 0" fill="gray" />
+      <g stroke="#a9a9a9" stroke-width="0.5" stroke-linecap="round">
+        <path d="M298,140 l0,-40 l6,0 l0,40 z" fill="#a9a9a9" />
+        <path d="M298,140 a2 1,0,0 0,6 0" fill="#a9a9a9" />
+      </g>
+      <g stroke="#b9b9b9" stroke-width="0.5" stroke-linecap="round">
+        <path d="M305,145 l0,-40 l6,0 l0,40 z" fill="#b9b9b9" />
+        <path d="M305,145 a2 1,0,0 0,6 0" fill="#b9b9b9" />
+      </g>
+      <g stroke="#c9c9c9" stroke-width="0.5" stroke-linecap="round">
+        <path d="M312,149 l0,-40 l6,0 l0,40 z" fill="#c9c9c9" />
+        <path d="M312,149 a2 1,0,0 0,6 0" fill="#c9c9c9" />
+      </g>
       <g stroke="white" stroke-width="0.5" stroke-linecap="round">
-        <path d="M298,139 l0,-40 l6,0 l0,40 z" fill="white" />
-        <path d="M305,144 l0,-40 l6,0 l0,40 z" fill="white" />
-        <path d="M312,149 l0,-40 l6,0 l0,40 z" fill="white" />
         <path d="M320,152 l0,-40 l6,0 l0,40 z" fill="white" />
+        <path d="M320,152 a2 1,0,0 0,6 0" fill="white" />
         <path d="M329,154 l0,-40 l6,0 l0,40 z" fill="white" />
+        <path d="M329,154 a2 1,0,0 0,6 0" fill="white" />
         <path d="M338,154 l0,-40 l6,0 l0,40 z" fill="white" />
+        <path d="M338,154 a2 1,0,0 0,6 0" fill="white" />
         <path d="M347,152 l0,-40 l6,0 l0,40 z" fill="white" />
+        <path d="M347,152 a2 1,0,0 0,6 0" fill="white" />
         <path d="M355,149 l0,-40 l6,0 l0,40 z" fill="white" />
-        <path d="M362,144 l0,-40 l6,0 l0,40 z" fill="white" />
-        <path d="M369,139 l0,-40 l6,0 l0,40 z" fill="white" />
+        <path d="M355,149 a2 1,0,0 0,6 0" fill="white" />
+        <path d="M362,145 l0,-40 l6,0 l0,40 z" fill="white" />
+        <path d="M362,145 a2 1,0,0 0,6 0" fill="white" />
+        <path d="M369,140 l0,-40 l6,0 l0,40 z" fill="white" />
+        <path d="M369,140 a2 1,0,0 0,6 0" fill="white" />
       </g>
       <path d="M295,99 a2 1,0,0 0,83 0" fill="#e8ebe5" />
       <path d="M295,99 a2 1,0,0 1,83 0" fill="#e8ebe5" />
-      <path d="M295,94 a2 1,0,0 0,83 0" fill="#ffffff" />
-      <path d="M295,94 a2 1,0,0 1,83 0" fill="#ffffff" />
+      <path d="M295,94 a2 1,0,0 0,83 0" fill="hsl(90, 13%, 70%)" />
+      <path d="M295,94 a2 1,0,0 1,83 0" fill="hsl(90, 13%, 70%)" />
+      <path d="M298,95 a2 1,0,0 0,79 0" fill="#ffffff" />
+      <path d="M298,95 a2 1,0,0 1,79 0" fill="#ffffff" />
       <path d="M299,89 a2 1,0,0 0,76 0" fill="white" />
       <path d="M299,89 a2 1,0,0 1,76 0" fill="white" />
       <path d="M302,87 a2 1,0,0 0,70 0" fill="#c7c7c7" />
@@ -247,20 +273,34 @@
       <path d="M304,85 a2 1,0,0 1,65 0" fill="white" />
       <path d="M307,85 a2 1,0,0 0,60 0" fill="gray" />
       <path d="M307,85 a2 1,0,0 1,60 0" fill="gray" />
-      <g stroke="white" stroke-width="0.5" stroke-linecap="round">
-        <path d="M305,91 l0,-25 l6,0 l0,25 z" fill="white" />
-        <path d="M312,96 l0,-25 l6,0 l0,25 z" fill="white" />
-        <path d="M320,99 l0,-25 l6,0 l0,25 z" fill="white" />
-        <path d="M329,101 l0,-25 l6,0 l0,25 z" fill="white" />
-        <path d="M338,101 l0,-25 l6,0 l0,25 z" fill="white" />
-        <path d="M347,99 l0,-25 l6,0 l0,25 z" fill="white" />
-        <path d="M355,96 l0,-25 l6,0 l0,25 z" fill="white" />
-        <path d="M362,91 l0,-25 l6,0 l0,25 z" fill="white" />
+      <g stroke="#b9b9b9" stroke-width="0.3" stroke-linecap="round">
+        <path d="M307,89 l0,-25 l6,0 l0,25 z" fill="#b9b9b9" />
+        <path d="M307,89 a2 1,0,0 0,6 0" fill="#b9b9b9" />
+      </g>
+      <g stroke="#c9c9c9" stroke-width="0.3" stroke-linecap="round">
+        <path d="M314,94 l0,-25 l6,0 l0,25 z" fill="#c9c9c9" />
+        <path d="M314,94 a2 1,0,0 0,6 0" fill="#c9c9c9" />
+      </g>
+      <g stroke="white" stroke-width="0.3" stroke-linecap="round">
+        <path d="M322,97 l0,-25 l6,0 l0,25 z" fill="white" />
+        <path d="M322,97 a2 1,0,0 0,6 0" fill="white" />
+        <path d="M330,99 l0,-25 l6,0 l0,25 z" fill="white" />
+        <path d="M330,99 a2 1,0,0 0,6 0" fill="white" />
+        <path d="M338,99 l0,-25 l6,0 l0,25 z" fill="white" />
+        <path d="M338,99 a2 1,0,0 0,6 0" fill="white" />
+        <path d="M346,97 l0,-25 l6,0 l0,25 z" fill="white" />
+        <path d="M346,97 a2 1,0,0 0,6 0" fill="white" />
+        <path d="M354,94 l0,-25 l6,0 l0,25 z" fill="white" />
+        <path d="M354,94 a2 1,0,0 0,6 0" fill="white" />
+        <path d="M361,89 l0,-25 l6,0 l0,25 z" fill="white" />
+        <path d="M361,89 a2 1,0,0 0,6 0" fill="white" />
       </g>
       <path d="M302,62 a2 1,0,0 0,70 0" fill="white" />
       <path d="M302,62 a2 1,0,0 1,70 0" fill="white" />
-      <path d="M302,60 a2 1,0,0 0,70 0" fill="#e6e9e4" />
-      <path d="M302,60 a2 1,0,0 1,70 0" fill="#e6e9e4" />
+      <path d="M302,60 a2 1,0,0 0,70 0" fill="hsl(90, 13%, 70%)" />
+      <path d="M302,60 a2 1,0,0 1,70 0" fill="hsl(90, 13%, 70%)" />
+      <path d="M304,61 a2 1,0,0 0,68 0" fill="#e6e9e4" />
+      <path d="M304,61 a2 1,0,0 1,68 0" fill="#e6e9e4" />
       <path d="M307,58 a2 1,0,0 0,60 0" fill="white" />
       <path d="M307,58 a2 1,0,0 1,60 0" fill="white" />
       <path d="M307,54 a2 1,0,0 0,60 0" fill="#b9b9b9" />
@@ -268,8 +308,10 @@
       <path d="M307,52 a2 1,0,0 0,60 0" fill="white" />
       <path d="M307,52 a2 1,0,0 1,60 0" fill="white" />
       <!-- Dome -->
-      <path d="M307,48 a2 1,0,0 0,60 0" fill="#e8ebe5" />
-      <path d="M307,49 a1 1.1,0,0 1,60 0" fill="#e8ebe5" />
+      <path d="M307,48 a2 1,0,0 0,60 0" fill="hsl(90, 13%, 70%)" />
+      <path d="M307,49 a1 1.1,0,0 1,60 0" fill="hsl(90, 13%, 70%)" />
+      <path d="M310,49 a2 1,0,0 0,57 0" fill="#e8ebe5" />
+      <path d="M310,50 a1 1.1,0,0 1,57 0" fill="#e8ebe5" />
       <path d="M319,25 a2 1,0,0 0,35 0" fill="gray" />
       <path d="M319,25 a2 1,0,0 1,35 0" fill="gray" />
       <path d="M319,23 a2 1,0,0 0,35 0" fill="white" />
@@ -373,15 +415,17 @@
     <path d="M580,320 a1.5 1,0,0 1,55 0" fill="#dbe1d6" />
     <path d="M574,307 a1.5 1,0,0 0,66 0" fill="#eaedef" />
     <path d="M574,308 a1.5 1,0,0 1,66 0" fill="#eaedef" />
-    <path d="M580,306 a1.5 1,0,0 0,55 0" fill="#2c9aff" />
-    <path d="M580,307 a1.5 1,0,0 1,55 0" fill="#2c9aff" />    
-    <path d="M580,308 a1.5 1,0,0 1,53 0" fill="#b6dcff" />
+    <path d="M578,307 a1.5 1,0,0 0,57 0" fill="#c7c7c7" />
+    <path d="M578,307 a1.5 1,0,0 1,57 0" fill="#c7c7c7" />
+    <path d="M582,307 a1.5 1,0,0 0,50 0" fill="#2c9aff" />
+    <path d="M582,308 a1.5 1,0,0 1,50 0" fill="#2c9aff" />    
+    <path d="M582,309 a1.5 1,0,0 1,47 0" fill="#b6dcff" />
     <ellipse cx="606" cy="298" rx="2.5" ry="5" fill="#2c9aff" >
       <animate attributeName="ry" values="13;26;13" dur="3.5s" repeatCount="indefinite" />
     </ellipse>
-    <path d="M580,307 a1.5 1,0,0 0,53 0" fill="#b6dcff" />
+    <path d="M582,308 a1.5 1,0,0 0,47 0" fill="#b6dcff" />
     
-       
+      
     <!-- Cloud No 1 -->
        <g id="star_anima">
    <svg viewbox="0 0 1000 600">
